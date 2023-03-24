@@ -1,0 +1,9 @@
+/* Write your CSS here */
+.footer-container {
+  background-color: #64748b;
+  height: 200px;
+  width: 80%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
